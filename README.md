@@ -160,7 +160,7 @@ console.log("Updated Greeting: ", personalizedGreeting); // Expected Output: Hel
 Understanding when to use `let` versus `const` helps ensure your code is clear, efficient, and less prone to errors.
 
 - [ x] In general, you should use `const` by default to declare your variables. This practice ensures that you don't accidentally change the value of a variable without intending to, providing a safeguard for your code.
-- [ x] Use `let` when you know the variable's value will need to change or be reassigned later. For example, if you are working with values that update over time, like counters or player scores, `let` is the appropriate choice.
+- [ x ] Use `let` when you know the variable's value will need to change or be reassigned later. For example, if you are working with values that update over time, like counters or player scores, `let` is the appropriate choice.
 
 ## 10. **Commit and Push to Github**
 - [ ] Commit and push your work to Github.
